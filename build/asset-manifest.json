@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/algolia-dev-test/static/css/main.8fa80977.css",
+    "main.js": "/algolia-dev-test/static/js/main.64e0b80d.js",
+    "static/js/787.f934ad63.chunk.js": "/algolia-dev-test/static/js/787.f934ad63.chunk.js",
+    "index.html": "/algolia-dev-test/index.html",
+    "main.8fa80977.css.map": "/algolia-dev-test/static/css/main.8fa80977.css.map",
+    "main.64e0b80d.js.map": "/algolia-dev-test/static/js/main.64e0b80d.js.map",
+    "787.f934ad63.chunk.js.map": "/algolia-dev-test/static/js/787.f934ad63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa80977.css",
+    "static/js/main.64e0b80d.js"
+  ]
+}
