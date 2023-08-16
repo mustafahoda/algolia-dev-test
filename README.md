@@ -10,8 +10,11 @@ Technologies Used:
 - Typescript for a better developer experience during build-time
 - Ant Design for quick and beautiful React Components to make the App visually appealing
 - Algolia to quickly be able to search on indexed data
+- Google Maps API to show the geolocation of the airport
 
 The hopes of this project was to quickly demonstrate my capabalities as a Solutions Engineer and how I'm able to prototype and build a Proof of Concept by reading Algolia Documents. As far as my experience with Algolia went, it was pretty straightforward! The documentation is thorough and complete. In-dashboard was experience and the hints guided me along with the way especially as a first time user.
+
+I also wanted to see the location, so I used the Google Maps Embed into each Hit that was returned. I though it made it more visually appealing 😍.
 
 Feedback for the Algolia Team:
 The one thing that made setup really difficult for me was lack of Typescript Dcoumentation. I chose to use Typescript to demonstrate my capabilities, but the strongly-typed interface and lack of documentation around it (or I couldn't find it) made it difficult to develop. I spent a good amount of time trying to resolve type errors and had to go resort to `any` in some instances.
