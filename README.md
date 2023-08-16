@@ -2,6 +2,26 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Algolia Interview Findings
+
+Technologies Used:
+
+- React for FrontEnd JS Library
+- Typescript for a better developer experience during build-time
+- Ant Design for quick and beautiful React Components to make the App visually appealing
+- Algolia to quickly be able to search on indexed data
+
+The hopes of this project was to quickly demonstrate my capabalities as a Solutions Engineer and how I'm able to prototype and build a Proof of Concept by reading Algolia Documents. As far as my experience with Algolia went, it was pretty straightforward! The documentation is thorough and complete. In-dashboard was experience and the hints guided me along with the way especially as a first time user.
+
+Feedback for the Algolia Team:
+The one thing that made setup really difficult for me was lack of Typescript Dcoumentation. I chose to use Typescript to demonstrate my capabilities, but the strongly-typed interface and lack of documentation around it (or I couldn't find it) made it difficult to develop. I spent a good amount of time trying to resolve type errors and had to go resort to `any` in some instances.
+
+Besides that, the integrations and `npm` packages were very simple and intuitive. I thought I'd have to create my own search box and make API Calls myself with an `onChangeHandler()` but the algolia-supported Node Packages really made this entire process seamless and easy! Built-in Pagination was slick and it's very nice to see how the widgets interacted with one another.
+
+Another feedback point I have is if I could wrap my own TextField in a `SearchBox` Provider and make my custom TextField component as a SearchBox. This might make it possible for customers to have a more consistent branding across their web-app.
+
+I can easily see myself building very interesting use-cases for customers and help driving value for the org with a slick product such as this!
+
 ## Available Scripts
 
 In the project directory, you can run:
